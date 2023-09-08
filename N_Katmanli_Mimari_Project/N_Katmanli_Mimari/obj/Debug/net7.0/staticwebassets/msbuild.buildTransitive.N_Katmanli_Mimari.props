@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\N_Katmanli_Mimari.props" />
+</Project>
